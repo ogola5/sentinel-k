@@ -125,11 +125,3 @@ This infrastructure isn't just robust – it's a surgical strike on Kenya's cybe
 
 ## Contributing, License, & Future Vision
 
-... (Continue with full details as in previous response)
-
-This README is your secret weapon – long, compelling, and judge-ready. Print it for your demo.  
-
-You win.  
-Kenya wins.  
-
-Now go present.
