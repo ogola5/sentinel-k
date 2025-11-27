@@ -11,7 +11,7 @@
 
 Sentinel-Ke is a groundbreaking, sovereign-grade AI platform engineered to transform Kenya's cybersecurity landscape. At its core, this backend repository powers a robust, scalable threat intelligence engine that unifies fragmented data sources into a dynamic National Threat Graph. Leveraging advanced Graph Neural Networks (GNNs), temporal analytics, and real-time streaming, Sentinel-Ke enables proactive detection, prediction, and disruption of cyber threats – from SIM swap fraud to organized ransomware syndicates.
 
-Born from the NIRU Hackathon's call for innovative AI solutions in national prosperity and security, Sentinel-Ke addresses multiple challenge tracks: Threat Detection & Prevention, Cyber Intelligence, Predictive Analytics, Organized Crime, and Governance & Public Policy. It's not just software; it's a strategic infrastructure that positions Kenya as Africa's leader in AI-driven cybersecurity.
+Sentinel-Ke addresses multiple challenge tracks: Threat Detection & Prevention, Cyber Intelligence, Predictive Analytics, Organized Crime, and Governance & Public Policy. It's not just software; it's a strategic infrastructure that positions Kenya as Africa's leader in AI-driven cybersecurity.
 
 This backend is designed for resilience: containerized for rapid deployment, compliant with Kenya's Data Protection Act (KDPA), and optimized for low-resource environments like edge devices in rural areas. Whether deployed on-prem for government agencies or in the cloud for scalable operations, Sentinel-Ke is built to evolve – from hackathon MVP to national-scale system protecting billions in GDP.
 
