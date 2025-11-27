@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+torch
+torch-geometric
+neo4j
+redis
+pandas
+numpy
+pydantic
+python-dotenv
+scikit-learn
+hdbscan
+stix2
+pytest
+pydantic-settings
